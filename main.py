@@ -1,5 +1,4 @@
 import os
-
 import requests
 from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
